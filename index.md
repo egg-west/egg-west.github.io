@@ -5,24 +5,24 @@ Working on Reinforcement Learning and Multi-task Learning.
 
 
 # Education
-<img src="./assets/img/ncu_logo.png" alt="uni_logo" width="120" height="120" align="left" /> **Nanchang University** : *Sep.2016~*Jun.2020*
+<img src="./assets/img/ncu_logo.png" alt="uni_logo" width="120" height="120" align="left" /> **Nanchang University** : *Sep.2016*~*Jun.2020*
 
-B.E Software Engineering.  GPA: **3.0/4.0** (with a **3.6** in my first semester and after that I spent a long time figured out **where I am and where I wanna reach** in computer science world. )
+B.E Software Engineering.  GPA: **3.0/4.0** (with a **3.6** in my first semester and after that I spent a long time figured out **where I am and where I wanna reach** in computer science world, and obviously I use a unimodal Gaussian Policy. **Reinforcement Learning joke: the value function of my GPA is overestimated!** )
 
 
 
 # Experience
 * **South University of Science and Technology** - *Oct. 2019* ~ *Jun.2019*
-
-* Research Assistant at MEDIAN Group
+    Research Assistant at MEDIAN Group
     *  Multi-task learning with RL.
 
 *  **WestLake University** - *Aug. 2019* ~ *Sept.2019*
-    * Visiting Research Student at Robotic AI Group
+    Visiting Research Student at Robotic AI Group
     * Reinforcement Learning Agent for robot arm grasping in unstructred environment.
 
 * **OPPO Corp.** - *Sept. 2018* ~ *Dec. 2018*
-    * RDE, working on the first generation of OPPO's voice assistant.
+    Research&Develop at algorithm group of the Voice Assitant Team
+    * , working on the first generation of OPPO's voice assistant.
 
 # Publication
 * ![tasks](./assets/pub_img/marlo_tasks.jpg)
