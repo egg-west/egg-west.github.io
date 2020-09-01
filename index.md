@@ -5,10 +5,8 @@ Working on Reinforcement Learning and Multi-task Learning.
 
 
 # Education
-* <img src="./assets/img/ncu_logo.png" alt="uni_logo" width="120" height="120" align="bottom" />
-
-* **Nanchang University** : *Sep.2016~*Jun.2020*
-    * B.E Software Engineering.  GPA: 3.0/4.0 (with a 3.6 in my first semester and after that I was just coding. )
+<img src="./assets/img/ncu_logo.png" alt="uni_logo" width="120" height="120" align="left" /> **Nanchang University** : *Sep.2016~*Jun.2020*
+B.E Software Engineering.  GPA: 3.0/4.0 (with a 3.6 in my first semester and after that I was just coding. )
 
 # Experience
 * **South University of Science and Technology** - *Oct. 2019* ~ *Jun.2019*
