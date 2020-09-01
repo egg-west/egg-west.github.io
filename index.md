@@ -6,7 +6,10 @@ Working on Reinforcement Learning and Multi-task Learning.
 
 # Education
 <img src="./assets/img/ncu_logo.png" alt="uni_logo" width="120" height="120" align="left" /> **Nanchang University** : *Sep.2016~*Jun.2020*
-B.E Software Engineering.  GPA: 3.0/4.0 (with a 3.6 in my first semester and after that I was just coding. )
+
+B.E Software Engineering.  GPA: **3.0/4.0** (with a **3.6** in my first semester and after that I spent a long time figured out **where I am and where I wanna reach** in computer science world. )
+
+
 
 # Experience
 * **South University of Science and Technology** - *Oct. 2019* ~ *Jun.2019*
@@ -31,10 +34,10 @@ B.E Software Engineering.  GPA: 3.0/4.0 (with a 3.6 in my first semester and aft
 
 # Research Interest
 
-* **Reinforcement Learning**: 
+* **Reinforcement Learning**: Practical algorithms and applications on robotics and game AI.
 
 # Personal Interest
 
-* **Badminton**: Recently
+* **Badminton**: Recently started, enjoy singles more than doubles.
 * **Chat**: Always enjoy chat and make any kinds of jokes.
-* **Reading**: Recently
+* **Reading**: Recently *lone suvivers*. A maintained list of books will be released soon.
