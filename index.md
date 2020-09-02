@@ -12,14 +12,14 @@ B.E Software Engineering.  GPA: **3.0/4.0** (with a **3.6** in my first semester
 
 
 # Experience
-* **South University of Science and Technology** - *Oct. 2019* ~ *Jun.2019*
-    
+* **South University of Science and Technology** - *Oct. 2019* ~ *Sept.2020*
+  
     Research Assistant at MEDIAN Group
 
     *  Multi-task learning with RL.
     
 *  **WestLake University** - *Aug. 2019* ~ *Sept.2019*
-    
+   
     Visiting Research Student at Robotic AI Group
 
     * Reinforcement Learning Agent for robot arm grasping in unstructured environment.
