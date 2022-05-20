@@ -1,10 +1,18 @@
-I will soon Join [Game AI Group](http://gameai.eecs.qmul.ac.uk/) at Queen Mary University of London as a PhD student working with Prof. Diego Perez.
+I am a 2nd-year PhD student  @[Game AI Group](http://gameai.eecs.qmul.ac.uk/), Queen Mary University of London, supervised by Dr. Diego Perez and Dr. Alexander Dockhorn.
 
-Working on Reinforcement Learning and Multi-task Learning.
 
 
 
 # Education
+<img src="./assets/img/qmul_logo.png" alt="uni_logo" width="120" height="120" align="left" /> 
+**Queen Mary University of London** : *Sep.2020*~*To present*
+
+I work on state abstraction for strategy game playing. My current focus is developing general state abstraction methods that empowers complex game playing to better efficience and performance.
+
+Neural networks are abstracting the observation automatically, but explicit abstraction finds additional beneftis that leads to new theoretical results and new STOA performance for generalization and exploration.
+<br/><br/>
+
+
 <img src="./assets/img/ncu_logo.png" alt="uni_logo" width="120" height="120" align="left" /> **Nanchang University** : *Sep.2016*~*Jun.2020*
 
 B.E Software Engineering.  GPA: **3.0/4.0** (with a **3.6** in my first semester and after that I spent a long time figured out **where I am and where I wanna reach** in computer science world. Obviously, I used a unimodal Gaussian Policy so almost no action is took for examination. **Reinforcement Learning joke: the value function of my GPA is overestimated!** )
@@ -12,7 +20,7 @@ B.E Software Engineering.  GPA: **3.0/4.0** (with a **3.6** in my first semester
 
 
 # Experience
-* **South University of Science and Technology** - *Oct. 2019* ~ *Sept.2020*
+* **Southern University of Science and Technology** - *Oct. 2019* ~ *Sept.2020*
   
     Research Assistant at MEDIAN Group
 
@@ -26,24 +34,31 @@ B.E Software Engineering.  GPA: **3.0/4.0** (with a **3.6** in my first semester
     
 * **OPPO Corp.** - *Sept. 2018* ~ *Dec. 2018*
 
-    Research&Develop at algorithm group of the Voice Assistant Team
+    R&D at algorithm group of the Voice Assistant Team
 
     * Working on Natural Language Understanding (NLU) for OPPO's first generation voice assistant.
 
 # Publication
+* **Towards Applicable State Abstractions: a Preview in Strategy Games** (To appear at RL as Agency workshop, RLDM 2022) Linjie Xu, Diego Perez-Liebana and Alexander Dockhorn.
+
+* **Elastic Monte Carlo Tree Search with State Abstraction for Strategy Game Playing** (To appear at IEEE Conference On Games 2022) Linjie Xu, Alexander Dockhorn, Jorge Hurtado-Grueso, Dominic Jeurissen and Diego Perez Liebana
+
 ![tasks](./assets/pub_img/marlo_tasks.jpg)
 
-* *[**A Hierarchial Approach for MARLO Challenge**](https://ieeexplore.ieee.org/document/8847943)* Linjie Xu, Yihong Chen
+* *[**A Hierarchial Approach for MARLO Challenge**](https://ieeexplore.ieee.org/document/8847943)* IEEE COG 2018. Linjie Xu, Yihong Chen
 
     We use a straightforward approach to solve 3 collaborative tasks on [Minecraft](https://www.microsoft.com/en-us/research/blog/winners-announced-in-multi-agent-reinforcement-learning-challenge), and got the 3rd place on MARLO challenge held by Microsoft Research, Cambridge.
 
 
-# Research Interest
+# Research Topics
+* **State Abstraction**: I am trying to find a way to measure similarity between MDP components.
+* **Reinforcement Learning**: I am trying to find a way to stablize consistent self-motivation.
 
-* **Reinforcement Learning**: Practical algorithms and applications on robotics and game AI.
+# Personal Interests
 
-# Personal Interest
-
-* **Badminton**: Recently started, enjoy singles more than doubles.
-* **Chat**: Always enjoy chat and make any kinds of jokes.
-* **Reading**: Recently *lone survivors*. A maintained list of books will be released soon.
+* **Sports**: Badminton, basketball and football. I am learning swimming.
+* **Chat**: You are welcomed to send me an email to arrange a chat for research ideas, careers etc.
+* **Books**:
+* *Good Economics for Hard Times* by Abhijit V. Banerjee and Esther Duflo
+*  *Becoming* by Michelle Obama
+*  *Lone Survivors* by Marcus Luttrell
