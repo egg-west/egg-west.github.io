@@ -1,4 +1,4 @@
-I am a 2nd-year PhD student  @[Game AI Group](http://gameai.eecs.qmul.ac.uk/), Queen Mary University of London, supervised by Dr. Diego Perez and Dr. Alexander Dockhorn.
+I am a 2nd-year PhD student  @[Game AI Group](http://gameai.eecs.qmul.ac.uk/), Queen Mary University of London, supervised by Dr. Diego Perez and Dr. Alexander Dockhorn. My research is supported by @[EPSRC](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T008962/1).
 
 
 
@@ -39,7 +39,7 @@ B.E Software Engineering.  GPA: **3.0/4.0** (with a **3.6** in my first semester
     * Working on Natural Language Understanding (NLU) for OPPO's first generation voice assistant.
 
 # Publication
-* **Towards Applicable State Abstractions: a Preview in Strategy Games** (To appear at RL as Agency workshop, RLDM 2022) Linjie Xu, Diego Perez-Liebana and Alexander Dockhorn.
+* **Towards Applicable State Abstractions: a Preview in Strategy Games** (RL as Agency workshop, RLDM 2022) Linjie Xu, Diego Perez-Liebana and Alexander Dockhorn.
 
 * **Elastic Monte Carlo Tree Search with State Abstraction for Strategy Game Playing** (To appear at IEEE Conference On Games 2022) Linjie Xu, Alexander Dockhorn, Jorge Hurtado-Grueso, Dominic Jeurissen and Diego Perez Liebana
 
