@@ -15,7 +15,7 @@ Neural networks are abstracting the observation automatically, but explicit abst
 
 <img src="./assets/img/ncu_logo.png" alt="uni_logo" width="120" height="120" align="left" /> **Nanchang University** : *Sep.2016*~*Jun.2020*
 
-B.E Software Engineering.  GPA: **3.0/4.0** (with a **3.6** in my first semester and after that I spent a long time figured out **where I am and where I wanna reach** in computer science world. Obviously, I used a unimodal Gaussian Policy so almost no action is took for examination. **Reinforcement Learning joke: the value function of my GPA is overestimated!** )
+B.E Software Engineering.  GPA: **3.0/4.0**. Graduation project: *Gradient-based Intrinsic Motivation for Reinforcement Learning*
 
 
 
