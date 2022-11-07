@@ -1,4 +1,4 @@
-I am a 2nd-year PhD student  @[Game AI Group](http://gameai.eecs.qmul.ac.uk/), Queen Mary University of London, supervised by Dr. Diego Perez and Dr. Alexander Dockhorn. My research is supported by @[EPSRC](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T008962/1).
+I am a 3rd-year PhD student  @[Game AI Group](http://gameai.eecs.qmul.ac.uk/), Queen Mary University of London, supervised by Dr. Diego Perez and Dr. Alexander Dockhorn. My research is supported by @[EPSRC](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T008962/1).
 
 
 
@@ -52,13 +52,13 @@ B.E Software Engineering.  GPA: **3.0/4.0** (with a **3.6** in my first semester
 
 # Research Topics
 * **State Abstraction**: I am trying to find a way to measure similarity between MDP components.
-* **Reinforcement Learning**: I am trying to find a way to stablize consistent self-motivation.
+* **Reinforcement Learning**: I am trying to find a way to stablize consistent self-motivation. 
 
 # Personal Interests
 
-* **Sports**: Badminton, basketball and football. I am learning swimming.
+* **Sports**: Badminton, basketball and football.
 * **Chat**: You are welcomed to send me an email to arrange a chat for research ideas, careers etc.
-* **Books**:
+* **Books Reading**:
 * *Good Economics for Hard Times* by Abhijit V. Banerjee and Esther Duflo
 *  *Becoming* by Michelle Obama
 *  *Lone Survivors* by Marcus Luttrell
